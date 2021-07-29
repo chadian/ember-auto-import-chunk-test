@@ -48,5 +48,9 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "ember-auto-import": "^2.0.2",
+    "webpack": "^5.47.1"
   }
 }
